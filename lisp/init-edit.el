@@ -124,6 +124,7 @@
 
 ;; Minor mode to aggressively keep your code always indented
 (use-package aggressive-indent
+  :disabled t
   :diminish aggressive-indent-mode
   :hook ((after-init . global-aggressive-indent-mode)
          ;; FIXME: Disable in big files due to the performance issues

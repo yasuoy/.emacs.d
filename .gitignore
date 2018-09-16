@@ -25,7 +25,7 @@
 /bookmarks
 /company-statistics-cache.el
 /custom.el
-/custom-post.el
+# /custom-post.el
 /history
 /places
 /projectile-bookmarks.eld
